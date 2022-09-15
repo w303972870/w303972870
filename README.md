@@ -1,6 +1,5 @@
 <img  align="right" src="https://github-readme-streak-stats.herokuapp.com?user=w303972870&theme=neon_blurange&hide_border=true&locale=zh&date_format=%5BY.%5Dn.j" />
 
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=w303972870&show_icons=true&hide_title=true&theme=outrun&hide_border=true" />
 
 
 
@@ -12,7 +11,8 @@
 - :hammer: Creator of applications and frameworks
 - :boy: Call me Huomao
 - :meat_on_bone: Meat lover
-<br/> 
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=w303972870&show_icons=true&hide_title=true&theme=outrun&hide_border=true" />
+
 <b>A Simple Man</b><br/><br/>
 <ul>
 <li> 🔭 Where there is a will ， there is a way.</li>
