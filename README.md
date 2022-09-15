@@ -10,7 +10,7 @@
 
 - :orange_book: Focusing on Golang & Php & Javascript
 - :hammer: Creator of applications and frameworks
-- :ram: Call me Huomao
+- :boy: Call me Huomao
 - :meat_on_bone: Meat lover
 <br/>
 <b>A Simple Man</b><br/>
