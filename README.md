@@ -13,8 +13,8 @@
 - :meat_on_bone: Meat lover
 <br/>
 <b>A Simple Man</b><br/>
-- 🔭 The proper function of man is to live，but not to exist.<br/>
-- 🌱 You have to believe in yourself. Thats the secret of success.<br/>
+- 🔭 Where there is a will ， there is a way.<br/>
+- 🌱 The more alternative，the more difficult the choice.<br/>
 - 👯 Cease to struggle and you cease to live.<br/>
 - 🤔 Victory wont come to me unless I go to it. <br/>
 
