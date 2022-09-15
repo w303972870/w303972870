@@ -1,21 +1,22 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=w303972870&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img  align="left" src="https://github-readme-streak-stats.herokuapp.com?user=w303972870&theme=neon_blurange&hide_border=true&locale=zh&date_format=%5BY.%5Dn.j" />
+
+<img  align="right" src="https://github-readme-stats.vercel.app/api?username=w303972870&show_icons=true&hide_title=true&theme=outrun&hide_border=true" />
 
 
-### 你好，世界 👋
+#### 你好，世界 👋
 
-- :orange_book: Focusing on Golang & Php
+- :orange_book: Focusing on Golang & Php & Javascript
 - :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
+- :ram: Call me Huomao
 - :meat_on_bone: Meat lover
 
-Here are some ideas to get you started:
+**A Simple Man**
+- 🔭 The proper function of man is to live，but not to exist.
+- 🌱 You have to believe in yourself. Thats the secret of success.
+- 👯 Cease to struggle and you cease to live.
+- 🤔 Victory wont come to me unless I go to it. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+<!--
+<img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w303972870&theme=outrun" />
+<img  align="center" src="https://activity-graph.herokuapp.com/graph?username=w303972870&theme=dracula" />
+-->
