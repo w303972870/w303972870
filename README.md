@@ -13,7 +13,7 @@
 - :meat_on_bone: Meat lover
 <img  align="left" src="https://github-readme-stats.vercel.app/api?username=w303972870&show_icons=true&hide_title=true&theme=outrun&hide_border=true" />
 
-<b>A Simple Man</b><br/><br/>
+<p><b>A Simple Man</b><p/>
 <ul>
 <li> 🔭 Where there is a will ， there is a way.</li>
 <li> 🌱 People with tact have less to retract.</li>
