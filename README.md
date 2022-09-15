@@ -6,7 +6,7 @@
 
 
 
-#### 你好，世界 👋
+#### Hello World 👋
 
 - :orange_book: Focusing on Golang & Php & Javascript
 - :hammer: Creator of applications and frameworks
@@ -15,7 +15,7 @@
 <br/>
 <b>A Simple Man</b><br/>
 - 🔭 Where there is a will ， there is a way.<br/>
-- 🌱 The more alternative，the more difficult the choice.<br/>
+- 🌱 People with tact have less to retract.<br/>
 - 👯 Cease to struggle and you cease to live.<br/>
 - 🤔 Victory wont come to me unless I go to it. <br/>
 
