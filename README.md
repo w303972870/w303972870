@@ -1,6 +1,6 @@
 <img  align="left" src="https://github-readme-streak-stats.herokuapp.com?user=w303972870&theme=neon_blurange&hide_border=true&locale=zh&date_format=%5BY.%5Dn.j" />
 
-<img  align="right" src="https://github-readme-stats.vercel.app/api?username=w303972870&show_icons=true&hide_title=true&theme=outrun&hide_border=true" />
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=w303972870&show_icons=true&hide_title=true&theme=outrun&hide_border=true" />
 
 
 #### 你好，世界 👋
