@@ -14,10 +14,12 @@
 - :meat_on_bone: Meat lover
 <br/> 
 <b>A Simple Man</b><br/><br/>
-- 🔭 Where there is a will ， there is a way.<br/>
-- 🌱 People with tact have less to retract.<br/>
-- 👯 Cease to struggle and you cease to live.<br/>
-- 🤔 Victory wont come to me unless I go to it. <br/>
+<ul>
+<li> 🔭 Where there is a will ， there is a way.</li>
+<li> 🌱 People with tact have less to retract.</li>
+<li> 👯 Cease to struggle and you cease to live.</li>
+<li> 🤔 Victory wont come to me unless I go to it. </li>
+</ul>
 
 <!--
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w303972870&theme=outrun" />
