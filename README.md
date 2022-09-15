@@ -12,7 +12,7 @@
 - :hammer: Creator of applications and frameworks
 - :boy: Call me Huomao
 - :meat_on_bone: Meat lover
-<br/> <br/>
+<br/> 
 <b>A Simple Man</b><br/>
 - 🔭 Where there is a will ， there is a way.<br/>
 - 🌱 People with tact have less to retract.<br/>
